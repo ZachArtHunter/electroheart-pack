@@ -921,6 +921,10 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation": [-171.75, -25.5, 180],
+			"scale": [0.9, 0.9, 0.9]
+		},
 		"head": {
 			"rotation": [-90, 180, 0],
 			"translation": [0, -18.75, -23],
@@ -937,71 +941,53 @@
 			"name": "cover",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4, 5]
 		},
 		{
 			"name": "barrel",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "hexadecagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [6, 7, 8, 9, 10, 11, 12, 13]
 				},
 				{
 					"name": "hexadecagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [14, 15, 16, 17, 18, 19, 20, 21]
 				},
 				{
 					"name": "hexadecagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [22, 23, 24, 25, 26, 27, 28, 29]
 				},
 				{
 					"name": "hexadecagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [30, 31, 32, 33, 34, 35, 36, 37]
 				},
 				{
 					"name": "octagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [38, 39, 40, 41, 42, 43, 44, 45]
 				},
 				{
 					"name": "octagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [46, 47, 48, 49, 50, 51, 52, 53]
 				},
 				{
 					"name": "octagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [54, 55, 56, 57]
 				}
 			]
@@ -1010,16 +996,12 @@
 			"name": "stand",
 			"origin": [12.5, 1.5, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69]
 		},
 		{
 			"name": "faucet",
 			"origin": [0, -0.5, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [70, 71, 72, 73, 74, 75]
 		}
 	]

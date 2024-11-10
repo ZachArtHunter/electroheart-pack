@@ -827,6 +827,606 @@
             "chars": [
                 "\uE05b"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/green_prism.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE05c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/jane_prism.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE05d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/jack_prism.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE05e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/unisex_prism.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE05f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/dwarf/fc_dwarvennite_scrap.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE060"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/dwarf/fc_dwarvennite_ingot.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/dwarf/fc_dwarvennite_chunk.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_android_icon.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE063"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_apple_icon.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE064"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_xbox_icon.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE065"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_playstation_icon.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE066"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_nintendoswitch_icon.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE067"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_windows_icon.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE068"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_animeangry.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE069"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_button_left_arrow.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE06a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_button_right_arrow.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE06b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_cactus.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE06c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_chair.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE06d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_cos_coin.png",
+			"ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uE06e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_dollar_bill.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE06f"
+            ]
+        },
+
+
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_dollar_sign.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0f0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_emoji_token.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0f1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_fairy_dot.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0f2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_feather.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0f3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_fire.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0f4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_firstplace.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0f5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_secondplace.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0f6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_thirdplace.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0f7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_forest.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0f8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_fraggle_gem.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0f9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_furnace.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0fa"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_globe.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0fb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_hammer.png",
+			"ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uE0fc"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_hammer_anvil.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0fd"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_hotdog.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0fe"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_magic_bag.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE0ff"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_magnifying_glass.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_merchant_coin.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_moon.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE102"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_normal_bag.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE103"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_normal_book.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE104"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_pikachuwow.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE105"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_plant1.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE106"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_plantlife1.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE107"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_plantlife2.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE108"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_potion_bottle.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE109"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_red_book.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE10a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_scroll.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE10b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_silent_night18.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE10c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_smile_gun.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE10d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_stool.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE10e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_sun.png",
+			"ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uE10f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_grayscale_prism.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE110"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_swap_arrow.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE200"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_table.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE201"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_teal_book.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE202"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_thonking.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE203"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_tiny_diamond.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE204"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_tiny_elytra.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE205"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_tiny_sword.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE206"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_tiny_totem.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE207"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_waterwave.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE208"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:extra/fun/fc_emoji_wowok.png",
+			"ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE209"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:ui/test2.png",
+			"ascent": 13,
+            "height": 255,
+            "chars": [
+                "\uE20a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:ui/test3.png",
+			"ascent": 13,
+            "height": 255,
+            "chars": [
+                "\uE20e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fraggle:ui/test4.png",
+			"ascent": 13,
+            "height": 255,
+            "chars": [
+                "\uE20f"
+            ]
+        },
+        {
+            "type": "space",
+            "advances":{"":-2,"":-4,"":-8}
         }
 
 		]

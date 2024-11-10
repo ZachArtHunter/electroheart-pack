@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/slime_ball"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:extra/fun/slime_essence"},
+        { "predicate": { "custom_model_data": 11}, "model": "fraggle:extra/fun/gooey_grass"},
+        { "predicate": { "custom_model_data": 12}, "model": "fraggle:extra/fun/slime_island_rep_token"},
+        { "predicate": { "custom_model_data": 13}, "model": "fraggle:extra/fun/slime_island_dead_fly"},
+        { "predicate": { "custom_model_data": 20}, "model": "minecraft:item/slime_ball" }
+
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "fraggle:furniture/wood/fc_furni_base_cupboard_empty",
+	"textures": {
+		"log_top": "block/bamboo_block_top",
+		"log": "block/bamboo_block",
+		"planks": "block/bamboo_planks",
+		"stripped": "block/stripped_bamboo_block"
+	}
+}

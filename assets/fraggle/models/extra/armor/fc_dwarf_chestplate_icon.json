@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "fraggle:extra/armor/fc_dwarf_chestplate_icon",
+        "layer1": "fraggle:extra/armor/fc_dwarf_chestplate_icon"
+    }
+}

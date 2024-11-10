@@ -13,7 +13,7 @@
 		{ "predicate": { "custom_model_data": 11}, "model": "fraggle:crate_items/spawner/tameball_empty" },
 		{ "predicate": { "custom_model_data": 12}, "model": "fraggle:crate_items/spawner/tameball_filled" },
 		
-		{ "predicate": { "custom_model_data": 15}, "model": "minecraft:item/snowball" },
+		{ "predicate": { "custom_model_data": 30}, "model": "minecraft:item/snowball" },
 		{ "predicate": { "custom_model_data": 40}, "model": "fraggle:extra/fun/custom_firework_yellow" },
 		{ "predicate": { "custom_model_data": 41}, "model": "minecraft:item/snowball" }
 	]

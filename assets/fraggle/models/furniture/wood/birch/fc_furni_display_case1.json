@@ -1,0 +1,9 @@
+{
+	"parent": "fraggle:furniture/wood/fc_furni_base_display_case1",
+	"textures": {
+		"log_top": "block/birch_log_top",
+		"log": "block/birch_log",
+		"planks": "block/birch_planks",
+		"stripped": "block/stripped_birch_log"
+	}
+}

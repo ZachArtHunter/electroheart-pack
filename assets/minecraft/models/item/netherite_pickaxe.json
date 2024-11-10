@@ -49,6 +49,11 @@
 		{ "predicate": { "custom_model_data": 77}, "model": "outsourced:events/easter/set3/pickaxe" },
 		{ "predicate": { "custom_model_data": 78}, "model": "outsourced:events/easter/set4/pickaxe" },
 
-		{ "predicate": { "custom_model_data": 80}, "model": "minecraft:item/netherite_pickaxe" }
+		{ "predicate": { "custom_model_data": 80}, "model": "outsourced:ec/greendragon/pickaxe" },
+		{ "predicate": { "custom_model_data": 81}, "model": "outsourced:ec/headless/pickaxe"},
+		{ "predicate": { "custom_model_data": 82}, "model": "outsourced:ec/ghostly/pickaxe"},
+		{ "predicate": { "custom_model_data": 83}, "model": "fraggle:extra/dwarf/dwarvenite_pickaxe"},
+
+		{ "predicate": { "custom_model_data": 100}, "model": "minecraft:item/netherite_pickaxe" }
 	]
 }

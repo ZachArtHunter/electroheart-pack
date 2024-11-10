@@ -1,0 +1,6 @@
+{
+    "parent": "fraggle:cards/templates/gear_card_base",
+    "textures": {
+        "icon_texture": "minecraft:item/iron_sword"
+    }
+}

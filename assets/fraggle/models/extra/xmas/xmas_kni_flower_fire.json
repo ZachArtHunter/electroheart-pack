@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fraggle:extra/xmas/xmas_kni_flower_fire"
+  }
+}

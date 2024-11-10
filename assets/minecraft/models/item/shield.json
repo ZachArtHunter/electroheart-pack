@@ -51,6 +51,10 @@
         { "predicate": { "custom_model_data": 34}, "model": "outsourced:christmas/yungwilder/snowflake_shield" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 34}, "model": "outsourced:christmas/yungwilder/snowflake_shield_blocking" },
 
+        { "predicate": { "custom_model_data": 35}, "model": "outsourced:littleroom/magnus_shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 35}, "model": "outsourced:littleroom/magnus_shield_blocking" },
+        
+
         { "predicate": { "custom_model_data": 40}, "model": "outsourced:froggie_set/shield1" },
 		{ "predicate": { "blocking": 1, "custom_model_data": 40}, "model": "outsourced:froggie_set/shield2" },
 
@@ -118,11 +122,16 @@
 		{ "predicate": { "blocking": 1, "custom_model_data": 78}, "model": "outsourced:events/easter/set4/shield_blocking" },
 
 
-        { "predicate": { "custom_model_data": 79}, "model": "outsourced:littleroom/voras_tombstone_shield" },
-		{ "predicate": { "blocking": 1, "custom_model_data": 79}, "model": "outsourced:littleroom/voras_tombstone_shield_blocking" },
+        { "predicate": { "custom_model_data": 80}, "model": "outsourced:ec/greendragon/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 80}, "model": "outsourced:ec/greendragon/shield_blocking" },
+
+        { "predicate": { "custom_model_data": 81}, "model": "outsourced:ec/headless/shield"},
+        { "predicate": { "blocking": 1,"custom_model_data": 81}, "model": "outsourced:ec/headless/shield_blocking"},
+		{ "predicate": { "custom_model_data": 82}, "model": "outsourced:ec/ghostly/shield"},
+		{ "predicate": { "blocking": 1,"custom_model_data": 82}, "model": "outsourced:ec/ghostly/shield_blocking"},
 
 
-        { "predicate": { "custom_model_data": 80}, "model": "minecraft:item/shield" },
-		{ "predicate": { "blocking": 1, "custom_model_data": 80}, "model": "minecraft:item/shield_blocking" }
+        { "predicate": { "custom_model_data": 100}, "model": "minecraft:item/shield" },
+		{ "predicate": { "blocking": 1, "custom_model_data": 100}, "model": "minecraft:item/shield_blocking" }
     ]
 }

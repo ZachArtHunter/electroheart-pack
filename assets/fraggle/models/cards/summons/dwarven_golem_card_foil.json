@@ -1,0 +1,6 @@
+{
+    "parent": "fraggle:cards/summons/dwarven_golem_card",
+    "textures": {
+        "foil_texture": "fraggle:cards/holofoil_style3"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "fraggle:cards/templates/hero_card_base",
+    "textures": {
+        "card_texture": "fraggle:cards/hero/ally_card"
+    }
+}

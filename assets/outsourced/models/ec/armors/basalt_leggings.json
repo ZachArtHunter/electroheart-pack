@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "outsourced:ec/armors/basalt_leggings",
+        "layer1": "outsourced:ec/armors/basalt_leggings"
+    }
+}

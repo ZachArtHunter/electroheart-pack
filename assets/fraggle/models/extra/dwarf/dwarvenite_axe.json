@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fraggle:extra/dwarf/dwarvenite_axe"
+  }
+}

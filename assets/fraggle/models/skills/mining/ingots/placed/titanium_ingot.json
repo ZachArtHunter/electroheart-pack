@@ -1,0 +1,6 @@
+{
+	"parent": "fraggle:skills/mining/ingots/placed/ingot_base",
+	"textures": {
+		"ingot_texture": "fraggle:item/skills/mining/ingots/placed/titanium_ingot"
+	}
+}

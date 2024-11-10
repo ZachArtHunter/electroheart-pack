@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/spider_eye"
+    },
+    "overrides": [
+
+        { "predicate": { "custom_model_data": 46 }, "model": "fraggle:extra/dwarf/fc_rat_ear" },
+        { "predicate": { "custom_model_data": 47 }, "model": "fraggle:extra/dwarf/fc_rat_tail" },
+        { "predicate": { "custom_model_data": 48 }, "model": "fraggle:extra/dwarf/fc_industrial_glue" },
+        { "predicate": { "custom_model_data": 49 }, "model": "fraggle:extra/dwarf/fc_wet_gunpower" },
+        { "predicate": { "custom_model_data": 50 }, "model": "fraggle:extra/dwarf/fc_wet_string" }
+     
+        
+        
+    
+    ]
+}

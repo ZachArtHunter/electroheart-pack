@@ -44,6 +44,11 @@
 		{ "predicate": { "custom_model_data": 47}, "model": "fraggle:feesh/zombie_fish" },
 		{ "predicate": { "custom_model_data": 48}, "model": "fraggle:feesh/sunset_piranha" },
 		{ "predicate": { "custom_model_data": 49}, "model": "fraggle:feesh/emerald_dream_fish" },
+		{ "predicate": { "custom_model_data": 50}, "model": "fraggle:extra/fun/electric_slime_cod"},
+		{ "predicate": { "custom_model_data": 51}, "model": "fraggle:extra/fun/hearty_slime_cod"},
+		{ "predicate": { "custom_model_data": 52}, "model": "fraggle:extra/dwarf/fc_dwarven_fishy"},
+		{ "predicate": { "custom_model_data": 53}, "model": "fraggle:extra/dwarf/fc_glowingfish"},
+		{ "predicate": { "custom_model_data": 54}, "model": "fraggle:extra/dwarf/fc_goldensunfish"},
         { "predicate": { "custom_model_data": 60}, "model": "minecraft:item/cod" },
 
 		{ "predicate": { "custom_model_data": 1225}, "model": "fraggle:extra/fun/coalcarp" },

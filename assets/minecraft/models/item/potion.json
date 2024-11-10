@@ -10,7 +10,8 @@
 		{ "predicate": {"custom_model_data": 42}, "model": "outsourced:events/valentines/furni/champagne_cup_tintable" },		
 		{ "predicate": {"custom_model_data": 43}, "model": "outsourced:events/patty/bs_green_mug_tintable" },
 		{ "predicate": {"custom_model_data": 44}, "model": "fraggle:food/drinks/gemmed_mug_with_liquid_filling" },
-		{ "predicate": {"custom_model_data": 45}, "model": "minecraft:item/potion" }
+		{ "predicate": {"custom_model_data": 45}, "model": "fraggle:food/drinks/hammer_mug2023_with_liquid" },
+		{ "predicate": {"custom_model_data": 46}, "model": "minecraft:item/potion" }
 
 		]
 }

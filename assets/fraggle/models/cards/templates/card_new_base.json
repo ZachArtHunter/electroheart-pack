@@ -1,0 +1,9 @@
+{
+	"parent": "fraggle:cards/templates/icon_card_template_new",
+	"textures": {
+		"card_texture": "fraggle:cards/food_card_base",
+		"letters_texture": "fraggle:cards/letters",
+		"backdrop_texture": "fraggle:cards/backdrop",
+		"foil_texture": "fraggle:cards/none"
+	}
+}

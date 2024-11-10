@@ -17,7 +17,7 @@
 		{ "predicate": { "custom_model_data": 1229}, "model": "outsourced:christmas/set5/spirit_leggings" },
 		{ "predicate": { "custom_model_data": 1230}, "model": "outsourced:christmas/newyears/set1/leggings_icon" },
 		{ "predicate": { "custom_model_data": 1231}, "model": "outsourced:christmas/newyears/set2/lunarset_leggings" },
-
+		{ "predicate": { "custom_model_data": 1232}, "model": "custom/armor/vstux_leggings" },
 		{ "predicate": { "custom_model_data": 1233}, "model": "custom/armor/eclichleggings" },
 		{ "predicate": { "custom_model_data": 1234}, "model": "custom/armor/ecdruidleggings" },
 		{ "predicate": { "custom_model_data": 1235}, "model": "custom/armor/patrick_leggings" },
@@ -27,6 +27,14 @@
 		{ "predicate": { "custom_model_data": 1240}, "model": "outsourced:events/easter/set1/leggings" },
 		{ "predicate": { "custom_model_data": 1241}, "model": "outsourced:events/easter/set2/leggings" },
 		{ "predicate": { "custom_model_data": 1243}, "model": "outsourced:events/easter/set4/leggings" },
+
+		{ "predicate": { "custom_model_data": 1300}, "model": "outsourced:ec/greendragon/greendragon_leggings" },
+		{ "predicate": { "custom_model_data": 1301}, "model": "outsourced:ec/armors/molten_leggings" },
+		{ "predicate": { "custom_model_data": 1302}, "model": "outsourced:ec/armors/basalt_leggings" },
+
+		{ "predicate": { "custom_model_data": 1305}, "model": "fraggle:extra/armor/fc_dwarf_leggings_icon" },
+		{ "predicate": { "custom_model_data": 1307}, "model": "outsourced:ec/headless/leggings_icon" },
+		{ "predicate": { "custom_model_data": 1308}, "model": "outsourced:ec/ghostly/leggings_icon" },
 
 		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_leggings" },
 		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_leggings" },

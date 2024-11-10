@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/porkchop"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data": 10}, "model": "fraggle:food/pig_corpse"},
+        { "predicate": { "custom_model_data": 11}, "model": "minecraft:item/porkchop" }
+
+	]
+}

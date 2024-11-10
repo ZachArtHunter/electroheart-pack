@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fraggle:extra/fun/fc_texture_bag"
+  }
+}

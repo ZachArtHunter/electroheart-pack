@@ -1,0 +1,8 @@
+{
+    "parent": "fraggle:cards/templates/card_new_base",
+    "textures": {
+        "icon_texture": "fraggle:cards/hero/dwarven_golem_card",
+        "card_texture": "fraggle:cards/card_base_dragontype",
+		"backdrop_texture": "fraggle:cards/backdrop_adminshop"
+    }
+}

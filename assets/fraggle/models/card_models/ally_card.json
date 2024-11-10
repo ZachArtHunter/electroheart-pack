@@ -1,0 +1,7 @@
+{
+	"parent": "fraggle:card_template/thin_player_card_template",
+	"textures": {
+		"card_texture": "fraggle:cards/hero/ally_card",
+		"skin_texture": "entity/alex"
+	}
+}

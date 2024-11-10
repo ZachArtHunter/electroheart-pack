@@ -1,0 +1,6 @@
+{
+  "parent": "fraggle:block/base_models/display/full_block",
+  "textures": {
+    "all": "fraggle:item/skills/mining/ores/nodes/onyx_ore_node"
+  }
+}

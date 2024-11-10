@@ -1,0 +1,27 @@
+{
+    "fragglecraft.ocean.waves":{
+        "sounds": [
+           "fraggle:ocean/OceanWaves"
+        ]
+   },
+   "fragglecraft.ocean.wavecrash1":{
+    "sounds": [
+       "fraggle:ocean/OceanWaveCrash2"
+    ]
+},
+"fragglecraft.ocean.wavecrash2":{
+    "sounds": [
+       "fraggle:ocean/OceanWaveCrash3"
+    ]
+},
+"fragglecraft.ocean.wavecrash3":{
+    "sounds": [
+       "fraggle:ocean/OceanWaveCrash4"
+    ]
+},
+"fragglecraft.ocean.wavecrash4":{
+    "sounds": [
+       "fraggle:ocean/OceanWaveCrash5"
+    ]
+}
+ }

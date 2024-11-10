@@ -1,0 +1,6 @@
+{
+	"parent": "fraggle:cards/templates/icon_card_template",
+	"textures": {
+		"icon_texture": "fraggle:cards/none"
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/egg"
+    },
+	"overrides": [
+
+		{ "predicate": { "custom_model_data": 10}, "model": "fraggle:food/custom_egg"},
+
+		{ "predicate": { "custom_model_data": 20}, "model": "minecraft:item/egg" }
+	]
+}

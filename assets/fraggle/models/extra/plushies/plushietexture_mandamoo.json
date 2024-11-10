@@ -1,0 +1,8 @@
+{
+	"credit": "Made by FraggleCraft",
+	"parent": "fraggle:extra/plushies/fc_pplushie_base",
+	"texture_size": [32, 32],
+	"textures": {
+		"pskin": "fraggle:extra/plushies/plushietexture_mandamoo"
+	}
+}

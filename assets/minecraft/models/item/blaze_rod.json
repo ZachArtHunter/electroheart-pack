@@ -40,7 +40,11 @@
 		{ "predicate": { "custom_model_data": 65}, "model": "outsourced:events/easter/set3/key" },
 		{ "predicate": { "custom_model_data": 66}, "model": "outsourced:events/easter/set4/key" },
 
-		{ "predicate": { "custom_model_data": 80}, "model": "outsourced:littleroom/petnet" },
+		{ "predicate": { "custom_model_data": 80}, "model": "outsourced:ec/greendragon/key" },
+		{ "predicate": { "custom_model_data": 81}, "model": "outsourced:ec/headless/key" },
+		{ "predicate": { "custom_model_data": 82}, "model": "outsourced:ec/ghostly/key" },
+
+		{ "predicate": { "custom_model_data": 150}, "model": "outsourced:littleroom/petnet" },
 
 		{ "predicate": { "custom_model_data": 200}, "model": "outsourced:events/easter/set1/staff" },
 		{ "predicate": { "custom_model_data": 201}, "model": "outsourced:events/easter/set2/staff" },

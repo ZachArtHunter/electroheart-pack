@@ -197,10 +197,25 @@
         { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 78}, "model": "outsourced:events/easter/set4/bow_2" },
 
 
-        {"predicate": {"custom_model_data": 80},"model": "outsourced:littleroom/voras_bow"},
-        {"predicate": {"custom_model_data": 80,"pulling": 1,"pull": 0},"model": "outsourced:littleroom/voras_bow_pulling_0"},
-        {"predicate": {"custom_model_data": 80,"pulling": 1,"pull": 0.65},"model": "outsourced:littleroom/voras_bow_pulling_0"},
-        {"predicate": {"custom_model_data": 80,"pulling": 1,"pull": 0.9},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+        { "predicate": { "custom_model_data": 80}, "model": "outsourced:ec/greendragon/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 80}, "model": "outsourced:ec/greendragon/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 80}, "model": "outsourced:ec/greendragon/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 80}, "model": "outsourced:ec/greendragon/bow_2" },
+
+        { "predicate": { "custom_model_data": 81}, "model": "outsourced:ec/headless/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 81}, "model": "outsourced:ec/headless/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 81}, "model": "outsourced:ec/headless/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 81}, "model": "outsourced:ec/headless/bow_2" },
+
+        { "predicate": { "custom_model_data": 82}, "model": "outsourced:ec/ghostly/bow" },
+        { "predicate": {"pulling":1, "custom_model_data": 82}, "model": "outsourced:ec/ghostly/bow_0" },
+        { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 82}, "model": "outsourced:ec/ghostly/bow_1" },
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 82}, "model": "outsourced:ec/ghostly/bow_2" },
+
+        {"predicate": {"custom_model_data": 100},"model": "outsourced:littleroom/voras_bow"},
+        {"predicate": {"custom_model_data": 100,"pulling": 1,"pull": 0},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+        {"predicate": {"custom_model_data": 100,"pulling": 1,"pull": 0.65},"model": "outsourced:littleroom/voras_bow_pulling_0"},
+        {"predicate": {"custom_model_data": 100,"pulling": 1,"pull": 0.9},"model": "outsourced:littleroom/voras_bow_pulling_0"},
 
 
 

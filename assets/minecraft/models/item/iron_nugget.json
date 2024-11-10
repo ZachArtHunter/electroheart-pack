@@ -20,7 +20,11 @@
 		{"predicate": {"custom_model_data": 103}, "model": "fraggle:extra/fun/easter_armament1" },
 		{"predicate": {"custom_model_data": 104}, "model": "fraggle:extra/fun/easter_armament2" },
 		{"predicate": {"custom_model_data": 105}, "model": "fraggle:extra/fun/easter_armament3" },
-		{ "predicate": { "custom_model_data": 106}, "model": "minecraft:item/iron_nugget" },
+		{"predicate": {"custom_model_data": 106}, "model": "fraggle:extra/dwarf/fc_dwarvennite_scrap" },
+		{"predicate": {"custom_model_data": 107}, "model": "fraggle:extra/dwarf/fc_dwarvennite_chunk" },
+
+
+		{ "predicate": { "custom_model_data": 110}, "model": "minecraft:item/iron_nugget" },
 
         {"predicate": {"custom_model_data": 120}, "model": "fraggle:extra/fun/cookie_cutter_man" },
         {"predicate": {"custom_model_data": 121}, "model": "fraggle:extra/fun/cookie_cutter_sword" },
@@ -36,8 +40,27 @@
 		{"predicate": {"custom_model_data": 131}, "model": "fraggle:extra/fun/cookie_cutter_tree" },
 		{"predicate": {"custom_model_data": 132}, "model": "fraggle:extra/fun/cookie_cutter_umbrella" },
 
+		{"predicate": {"custom_model_data": 140}, "model": "fraggle:extra/dwarf/fc_dwarven_balance_gem" },
+		{"predicate": {"custom_model_data": 141}, "model": "fraggle:extra/dwarf/fc_dwarven_blood_gem" },
+		{"predicate": {"custom_model_data": 142}, "model": "fraggle:extra/dwarf/fc_dwarven_butterfly_gem" },
+		{"predicate": {"custom_model_data": 143}, "model": "fraggle:extra/dwarf/fc_dwarven_cubic_gem" },
+		{"predicate": {"custom_model_data": 144}, "model": "fraggle:extra/dwarf/fc_dwarven_dragon_gem" },
+		{"predicate": {"custom_model_data": 145}, "model": "fraggle:extra/dwarf/fc_dwarven_gray_gem" },
+		{"predicate": {"custom_model_data": 146}, "model": "fraggle:extra/dwarf/fc_dwarven_hourglass_gem" },
+		{"predicate": {"custom_model_data": 147}, "model": "fraggle:extra/dwarf/fc_dwarven_leaf_gem" },
+		{"predicate": {"custom_model_data": 148}, "model": "fraggle:extra/dwarf/fc_dwarven_opal_gem" },
+		{"predicate": {"custom_model_data": 149}, "model": "fraggle:extra/dwarf/fc_dwarven_portal_gem" },
+		{"predicate": {"custom_model_data": 150}, "model": "fraggle:extra/dwarf/fc_dwarven_prized_gem" },
+		{"predicate": {"custom_model_data": 151}, "model": "fraggle:extra/dwarf/fc_dwarven_saphire_gem" },
+		{"predicate": {"custom_model_data": 152}, "model": "fraggle:extra/dwarf/fc_dwarven_shadowdrop_gem" },
+		{"predicate": {"custom_model_data": 153}, "model": "fraggle:extra/dwarf/fc_dwarven_water_gem" },
 
-		{ "predicate": { "custom_model_data": 133}, "model": "minecraft:item/iron_nugget" },
+		{"predicate": {"custom_model_data": 155}, "model": "fraggle:extra/dwarf/fc_dwarven_omni_gem" },
+
+
+
+		{"predicate": {"custom_model_data": 160}, "model": "minecraft:item/iron_nugget" },
+
 		{"predicate": {"custom_model_data":4500}, "model": "outsourced:samus/food/apple_pie"},
 		{"predicate": {"custom_model_data":4501}, "model": "outsourced:samus/food/bibimbap"},
 		{"predicate": {"custom_model_data":4502}, "model": "outsourced:samus/food/chicken_box"},

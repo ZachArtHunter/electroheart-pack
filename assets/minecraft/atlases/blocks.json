@@ -4,6 +4,11 @@
             "type": "directory",
             "source": "fraggle",
             "prefix": "fraggle/"
+        },
+        {
+            "type": "directory",
+            "source": "particle",
+            "prefix": "particle/"
         },			
         {
             "type": "directory",
@@ -35,6 +40,11 @@
             "type": "directory",
             "source": "extra",
             "prefix": "extra/"
+        },	
+        {
+            "type": "directory",
+            "source": "cards",
+            "prefix": "cards/"
         },		
 		{
             "type": "directory",

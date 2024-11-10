@@ -1,0 +1,100 @@
+{
+	"credit": "Made by FraggleCraft",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "fraggle:extra/dwarf/fc_dwarven_braceletset2",
+		"particle": "fraggle:extra/dwarf/fc_dwarven_braceletset"
+	},
+	"elements": [
+		{
+			"from": [5.5, 0, 4.5],
+			"to": [10.5, 1, 5],
+			"faces": {
+				"north": {"uv": [8, 0, 11.5, 16], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [8, 0, 11.5, 1.6], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [4, 1.5, 7.5, 14.3], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [8, 14.4, 11.5, 16], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [4, 0, 5.75, 12.8], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [5.75, 0, 7.5, 12.8], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"from": [10, 0, 5],
+			"to": [10.5, 1, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"east": {"uv": [8, 1.5, 11.5, 14.3], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"west": {"uv": [4, 1.5, 7.5, 14.3], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [5.5, 1, 7.25, 13.8], "texture": "#1"},
+				"down": {"uv": [5.5, 1, 7.25, 13.8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.5, 0, 5],
+			"to": [6, 1, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 0.25, 0.5], "texture": "#missing"},
+				"east": {"uv": [4, 1.5, 7.5, 14.3], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 0, 0.25, 0.5], "texture": "#missing"},
+				"west": {"uv": [8, 1.5, 11.5, 14.3], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [4, 1, 5.75, 13.8], "texture": "#1"},
+				"down": {"uv": [4, 1, 5.75, 13.8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.5, 0, 9],
+			"to": [10.5, 1, 9.5],
+			"faces": {
+				"north": {"uv": [4, 1.5, 7.5, 14.3], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [8, 14.4, 11.5, 16], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [8, 0, 11.5, 16], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [8, 0, 11.5, 1.6], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [5.75, 0, 7.5, 12.8], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [4, 0.05, 5.75, 12.85], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -3, 9.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -3, 9.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -3, 9.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -3, 9.75]
+		},
+		"ground": {
+			"translation": [0, 5.25, 1]
+		},
+		"gui": {
+			"rotation": [40.75, 14.24, -11.94],
+			"translation": [2.25, 2.25, 0]
+		},
+		"head": {
+			"translation": [0, 22.25, 2],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 2.5, -16],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

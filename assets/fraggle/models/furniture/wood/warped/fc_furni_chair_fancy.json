@@ -1,0 +1,6 @@
+{
+	"parent": "fraggle:furniture/wood/fc_furni_base_chair_fancy",
+	"textures": {
+		"stripped": "block/stripped_warped_stem"
+	}
+}

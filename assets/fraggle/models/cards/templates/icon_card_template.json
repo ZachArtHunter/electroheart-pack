@@ -1,0 +1,34 @@
+{
+	"parent": "fraggle:cards/templates/card_display",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "fraggle:cards/fraggle_cards_back",
+		"1": "#card_texture",
+		"2": "#icon_texture"
+	},
+	"elements": [
+		{
+			"name": "card",
+			"from": [2, 0, 7.5],
+			"to": [14, 16, 8.5],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 16], "texture": "#0"},
+				"east": {"uv": [2, 0, 2.5, 16], "texture": "#1"},
+				"south": {"uv": [2, 0, 14, 16], "texture": "#1"},
+				"west": {"uv": [13.5, 0, 14, 16], "texture": "#1"},
+				"up": {"uv": [2, 0, 14, 0.5], "texture": "#1"},
+				"down": {"uv": [2, 15.5, 14, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "icon",
+			"from": [4, 5.5, 8.505],
+			"to": [12, 13.5, 8.505],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}

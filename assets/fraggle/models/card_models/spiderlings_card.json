@@ -1,0 +1,7 @@
+{
+	"parent": "fraggle:card_template/spiderlings_card_template",
+	"textures": {
+		"card_texture": "fraggle:cards/enemy/spiderlings_card",
+		"skin_texture": "entity/spider/cave_spider"
+	}
+}

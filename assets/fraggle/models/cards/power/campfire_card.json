@@ -1,0 +1,6 @@
+{
+    "parent": "fraggle:cards/templates/power_card_base",
+    "textures": {
+        "icon_texture": "minecraft:block/campfire_fire"
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "fraggle:food/drinks/hammer_mug2023",
+	"textures": {
+		"liquid_texture": "block/water_flow",
+		"froth_texture": "fraggle:food/drinks/mug_liquid_froth"
+	}
+}

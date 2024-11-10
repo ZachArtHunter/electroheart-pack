@@ -1,0 +1,9 @@
+{
+	"parent": "fraggle:furniture/wood/fc_furni_base_bench2",
+	"textures": {
+		"log_top": "block/warped_stem_top",
+		"log": "block/warped_stem",
+		"planks": "block/warped_planks",
+		"stripped": "block/stripped_warped_stem"
+	}
+}

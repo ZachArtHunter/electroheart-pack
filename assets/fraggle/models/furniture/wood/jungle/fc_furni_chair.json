@@ -1,0 +1,8 @@
+{
+	"parent": "fraggle:furniture/wood/fc_furni_base_chair",
+	"textures": {
+		"log_top": "block/jungle_log_top",
+		"log": "block/jungle_log",
+		"planks": "block/jungle_planks"
+	}
+}

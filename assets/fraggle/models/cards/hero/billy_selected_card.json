@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "fraggle:cards/billy_card"
+    },
+	"display": {
+		"gui": {
+			"scale": [1, 1, 1],
+			"translation": [0, 0, 0]
+		}
+	}
+}

@@ -12,7 +12,8 @@
 		{"predicate": {"custom_model_data":42}, "model": "outsourced:events/valentines/furni/champagne_cup_empty" },
 		{"predicate": {"custom_model_data":43}, "model": "outsourced:events/patty/bs_green_mug_empty" },
 		{"predicate": {"custom_model_data":44}, "model": "fraggle:food/drinks/gemmed_mug_empty"},
-		{"predicate": {"custom_model_data":45}, "model": "minecraft:item/glass_bottle"},
+		{"predicate": {"custom_model_data":45}, "model": "fraggle:food/drinks/hammer_mug2023_empty"},
+		{"predicate": {"custom_model_data":46}, "model": "minecraft:item/glass_bottle"},
 
 		{"predicate": {"custom_model_data":1224}, "model": "fraggle:extra/fun/brokenlight"},
 		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/brokenornament"},

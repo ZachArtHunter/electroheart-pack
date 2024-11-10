@@ -1,0 +1,7 @@
+{
+	"parent": "fraggle:furniture/wood/fc_furni_base_table_fancy_leaf",
+	"textures": {
+		"log": "block/oak_log",
+		"stripped": "block/stripped_oak_log"
+	}
+}

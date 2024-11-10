@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "outsourced:ec/headless/headless_helmet",
+        "layer1": "outsourced:ec/headless/headless_helmet"
+    }
+}

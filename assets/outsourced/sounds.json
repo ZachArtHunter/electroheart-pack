@@ -119,6 +119,160 @@
 			"outsourced:littleroom/halloweenpack2/candy_cauldron/take"
 		 ]
 	},
+	"littleroom.yukio.breath":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_breath"
+		]
+   },
+  "littleroom.yukio.crystal_break":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_crystal_break"
+		]
+   },
+  "littleroom.yukio.falling_crystal_spawn":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_falling_crystal_spawn"
+		]
+   },
+  "littleroom.yukio.icecrystal_idle":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_icecrystal_idle"
+		]
+   },
+  "littleroom.yukio.icecrystal_spawn":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_icecrystal_spawn_1",
+		   "outsourced:littleroom/yukio/yukio_icecrystal_spawn_2",
+		   "outsourced:littleroom/yukio/yukio_icecrystal_spawn_3",
+		   "outsourced:littleroom/yukio/yukio_icecrystal_spawn_4"
+		]
+   },
+  "littleroom.yukio.impact":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_impact1",
+		   "outsourced:littleroom/yukio/yukio_impact2",
+		   "outsourced:littleroom/yukio/yukio_impact3",
+		   "outsourced:littleroom/yukio/yukio_impact4"
+		]
+   },
+  "littleroom.yukio.poof":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_poof"
+		]
+   },
+  "littleroom.yukio.roar":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_roar_1",
+		   "outsourced:littleroom/yukio/yukio_roar_2"
+		]
+   },
+  "littleroom.yukio.sleep":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_sleep"
+		]
+   },
+  "littleroom.yukio.stun":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_stun"
+		]
+   },
+  "littleroom.yukio.stun_landing":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_stun_landing"
+		]
+   },
+  "littleroom.yukio.vox":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_vox_1",
+		   "outsourced:littleroom/yukio/yukio_vox_2",
+		   "outsourced:littleroom/yukio/yukio_vox_3"
+		]
+   },
+  "littleroom.yukio.wing_attack":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_wing_attack"
+		]
+   },
+  "littleroom.yukio.yukio_wingflap":{
+		"sounds": [
+		   "outsourced:littleroom/yukio/yukio_wingflap"
+		]
+   },
+	"littleroom.magnus.death":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/death"
+		]
+   },
+  "littleroom.magnus.death_stab":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/death_stab"
+		]
+   },
+  "littleroom.magnus.land":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/land"
+		]
+   },
+  "littleroom.magnus.shield_bash":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/shield_bash"
+		]
+   },
+  "littleroom.magnus.shield_down":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/shield_down"
+		]
+   },
+  "littleroom.magnus.shield_impact":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/shield_impact"
+		]
+   },
+  "littleroom.magnus.shield_up":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/shield_up"
+		]
+   },
+  "littleroom.magnus.spawn":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/spawn"
+		]
+   },
+  "littleroom.magnus.spin_loop":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/spin_loop"
+		]
+   },
+  "littleroom.magnus.spin_start":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/spin_start"
+		]
+   },
+  "littleroom.magnus.sweep":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/sweep"
+		]
+   },
+  "littleroom.magnus.tombstone":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/tombstone"
+		]
+   },
+  "littleroom.magnus.jump":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/jump"
+		]
+   },
+  "littleroom.magnus.bonfire_lit":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/bonfire_lit"
+		]
+   },
+  "littleroom.magnus.dizzy":{
+		"sounds": [
+		   "outsourced:littleroom/magnus/dizzy"
+		]
+   },
 	"custom.bridday.confetto1": { 
 		"sounds": ["outsourced:birthday/confetto1" ] }, 
 	"custom.bridday.kazoo": { 
@@ -212,6 +366,121 @@
 "littleroom.direwolf.idle":{
 	"sounds": [
 	   "outsourced:littleroom/direwolf/idle"
+	]
+},
+"littleroom.rpgpackvol1.slime_step1":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/slime_step1"
+	]
+},
+"littleroom.rpgpackvol1.slime_step2":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/slime_step2"
+	]
+},
+"littleroom.rpgpackvol1.arrow_flyby":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/arrow_flyby"
+	]
+},
+"littleroom.rpgpackvol1.bite1":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/bite1"
+	]
+},
+"littleroom.rpgpackvol1.bite2":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/bite2"
+	]
+},
+"littleroom.rpgpackvol1.crossbow_draw":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/crossbow_draw"
+	]
+},
+"littleroom.rpgpackvol1.crossbow_shoot":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/crossbow_shoot"
+	]
+},
+"littleroom.rpgpackvol1.groan1":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/groan1"
+	]
+},
+"littleroom.rpgpackvol1.groan2":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/groan2"
+	]
+},
+"littleroom.rpgpackvol1.groan3":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/groan3"
+	]
+},
+"littleroom.rpgpackvol1.impact1":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/impact1"
+	]
+},
+"littleroom.rpgpackvol1.impact2":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/impact2"
+	]
+},
+"littleroom.rpgpackvol1.impact3":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/impact3"
+	]
+},
+"littleroom.rpgpackvol1.impact4":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/impact4"
+	]
+},
+"littleroom.rpgpackvol1.slime_death1":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/slime_death1"
+	]
+},
+"littleroom.rpgpackvol1.slime_death2":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/slime_death2"
+	]
+},
+"littleroom.rpgpackvol1.swing1":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/swing1"
+	]
+},
+"littleroom.rpgpackvol1.swing2":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/swing2"
+	]
+},
+"littleroom.rpgpackvol1.swing3":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/swing3"
+	]
+},
+"littleroom.rpgpackvol1.swing4":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/swing4"
+	]
+},
+"littleroom.rpgpackvol1.zombie_impact1":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/zombie_impact1"
+	]
+},
+"littleroom.rpgpackvol1.zombie_impact2":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/zombie_impact2"
+	]
+},
+"littleroom.rpgpackvol1.poof":{
+	"sounds": [
+	  "outsourced:littleroom/rpgpackvol1/poof"
 	]
 },
 "littleroom.lillith.blow_kiss":{
@@ -2114,5 +2383,141 @@
 	"sounds": [
 	   "outsourced:littleroom/balloons/doot"
 	]
-}
+},
+"littleroom.deadbeard.barrel":{
+	"sounds": [
+	   "outsourced:littleroom/deadbeard/barrel"
+	]
+},
+"littleroom.deadbeard.birdman":{
+	"sounds": [
+	   "outsourced:littleroom/deadbeard/birdman"
+	]
+},
+"littleroom.deadbeard.death":{
+	"sounds": [
+	   "outsourced:littleroom/deadbeard/death"
+	]
+},
+"littleroom.deadbeard.hurt":{
+	"sounds": [
+	   "outsourced:littleroom/deadbeard/hurt"
+	]
+},
+"littleroom.deadbeard.laugh":{
+	"sounds": [
+	   "outsourced:littleroom/deadbeard/laugh"
+	]
+},
+"littleroom.deadbeard.parrot":{
+	"sounds": [
+	   "outsourced:littleroom/deadbeard/parrot"
+	]
+},
+"littleroom.deadbeard.ricochet":{
+	"sounds": [
+	   "outsourced:littleroom/deadbeard/ricochet"
+	]
+},
+"littleroom.deadbeard.shoot":{
+	"sounds": [
+	   "outsourced:littleroom/deadbeard/shoot"
+	]
+},
+"littleroom.deadbeard.swing":{
+	"sounds": [
+	   "outsourced:littleroom/deadbeard/swing"
+	]
+},
+"littleroom.deadbeard.yar":{
+	"sounds": [
+	   "outsourced:littleroom/deadbeard/yar"
+	]
+},
+"littleroom.koboldassassin.impact1":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/impact1"
+	]
+},
+"littleroom.koboldassassin.impact2":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/impact2"
+	]
+},
+"littleroom.koboldassassin.impact3":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/impact3"
+	]
+},
+"littleroom.koboldassassin.impact4":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/impact4"
+	]
+},
+"littleroom.koboldassassin.jump":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/jump"
+	]
+},
+"littleroom.koboldassassin.roll":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/roll"
+	]
+},
+"littleroom.koboldassassin.swing1":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/swing1"
+	]
+},
+"littleroom.koboldassassin.swing2":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/swing2"
+	]
+},
+"littleroom.koboldassassin.swing3":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/swing3"
+	]
+},
+"littleroom.koboldassassin.swing4":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/swing4"
+	]
+},
+"littleroom.koboldassassin.swing5":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/swing5"
+	]
+},
+"littleroom.koboldassassin.land1":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/land1"
+	]
+},
+"littleroom.koboldassassin.land2":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/land2"
+	]
+},
+"littleroom.koboldassassin.land3":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/land3"
+	]
+},
+"littleroom.koboldassassin.death":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/death"
+	]
+},
+"littleroom.koboldassassin.poof":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/poof"
+	]
+},
+"littleroom.koboldassassin.trap":{
+	"sounds": [
+	   "outsourced:littleroom/koboldassassin/trap"
+	]
+}	
+ 
 }

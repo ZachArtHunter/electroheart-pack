@@ -17,7 +17,7 @@
 		{ "predicate": { "custom_model_data": 1229}, "model": "outsourced:christmas/set5/spirit_chestplate" },
 		{ "predicate": { "custom_model_data": 1230}, "model": "outsourced:christmas/newyears/set1/chestplate_icon" },
 		{ "predicate": { "custom_model_data": 1231}, "model": "outsourced:christmas/newyears/set2/lunarset_chestplate" },
-
+		{ "predicate": { "custom_model_data": 1232}, "model": "custom/armor/knife_tux" },
 		
 		{ "predicate": { "custom_model_data": 1233}, "model": "custom/armor/eclichchest" },
 		{ "predicate": { "custom_model_data": 1234}, "model": "custom/armor/ecdruidchest" },
@@ -29,9 +29,15 @@
 		{ "predicate": { "custom_model_data": 1241}, "model": "outsourced:events/easter/set2/chestplate" },
 		{ "predicate": { "custom_model_data": 1243}, "model": "outsourced:events/easter/set4/chestplate" },
 		
+		{ "predicate": { "custom_model_data": 1300}, "model": "outsourced:ec/greendragon/greendragon_chestplate" },
+		{ "predicate": { "custom_model_data": 1301}, "model": "outsourced:ec/armors/molten_chestplate" },
+		{ "predicate": { "custom_model_data": 1302}, "model": "outsourced:ec/armors/basalt_chestplate" },
+		{ "predicate": { "custom_model_data": 1305}, "model": "fraggle:extra/armor/fc_dwarf_chestplate_icon" },
+		{ "predicate": { "custom_model_data": 1307}, "model": "outsourced:ec/headless/chestplate_icon" },
+		{ "predicate": { "custom_model_data": 1308}, "model": "outsourced:ec/ghostly/chestplate_icon" },
+
 		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
-		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
-		{ "predicate": { "custom_model_data": 1443}, "model": "custom/armor/santa_chestplate" },
+		
 		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_chestplate" },
 
 		{ "predicate": { "custom_model_data": 2000}, "model": "custom/armor/emerald_chestplate" },

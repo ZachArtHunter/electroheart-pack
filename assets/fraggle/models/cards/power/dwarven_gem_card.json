@@ -1,0 +1,6 @@
+{
+    "parent": "fraggle:cards/templates/power_card_base",
+    "textures": {
+        "icon_texture": "fraggle:extra/dwarf/fc_dwarven_omni_gem"
+    }
+}

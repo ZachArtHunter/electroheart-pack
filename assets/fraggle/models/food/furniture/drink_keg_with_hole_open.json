@@ -1,0 +1,8 @@
+{
+	"parent": "fraggle:food/furniture/drink_keg_with_hole",
+	"textures": {
+		"liquid_texture": "block/water_flow",
+		"valve_closed": "fraggle:ui/font_button_invisible",
+		"valve_open": "fraggle:food/furniture/keg_valve"
+	}
+}

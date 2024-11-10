@@ -5,6 +5,7 @@
     },	
 	"overrides": [	
 	{"predicate": {"custom_model_data":13}, "model": "fraggle:extra/fun/slime_jar"},
+	{"predicate": {"custom_model_data":14}, "model": "fraggle:extra/fun/slime_sampler"},
     {"predicate": {"custom_model_data":20}, "model": "minecraft:item/black_dye"},
 	{"predicate": {"custom_model_data":1223}, "model": "fraggle:extra/fun/gumdropbutton" },
     {"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/reindeerdroppings" },

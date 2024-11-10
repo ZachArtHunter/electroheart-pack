@@ -177,7 +177,8 @@
 			"scale": [1.57, 1.57, 1.57]
 		},
 		"fixed": {
-			"translation": [0, 3, 0]
+			"translation": [0, 5.25, -34],
+			"scale": [2, 2, 2]
 		}
 	}
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fraggle:extra/fun/slime_island_dead_fly"
+  }
+}

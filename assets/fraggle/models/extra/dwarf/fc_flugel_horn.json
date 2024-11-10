@@ -1,0 +1,33 @@
+{
+	"credit": "Made by FraggleCraft",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "fraggle:extra/fun/fc_flugel_horn"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-113.77, 88.76, 69.06],
+			"translation": [0, 1.5, -3.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [153.38, -88.11, -161.32],
+			"translation": [0, 1.5, -3.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-113.77, 88.76, 69.06],
+			"translation": [0, 1.5, -3.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [153.38, -88.11, -161.32],
+			"translation": [0, 1.5, -3.25]
+		},
+		"head": {
+			"rotation": [-27.75, 90, 0],
+			"translation": [0, -2, -13.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -1],
+			"scale": [2, 2, 2]
+		}
+	}
+}

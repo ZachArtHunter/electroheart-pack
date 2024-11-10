@@ -1,0 +1,6 @@
+{
+	"parent": "fraggle:cards/templates/icon_card_template",
+	"textures": {
+		"card_texture": "fraggle:cards/power_card_base"
+	}
+}

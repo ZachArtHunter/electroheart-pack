@@ -2,6 +2,10 @@
 	"gui_light": "front",
   "parent": "minecraft:block/torch",
     "overrides": [
+
+    {"predicate": {"custom_model_data":40}, "model": "outsourced:littleroom/marshmallow_on_a_stick"},
+    {"predicate": { "custom_model_data": 41}, "model": "minecraft:block/torch" },
+    
 		{"predicate": {"custom_model_data":1225}, "model": "fraggle:extra/fun/litcandle"},
 		{"predicate": { "custom_model_data": 1300}, "model": "minecraft:block/torch" }
         ]

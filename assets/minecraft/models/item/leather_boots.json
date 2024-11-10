@@ -17,7 +17,7 @@
 		{ "predicate": { "custom_model_data": 1229}, "model": "outsourced:christmas/set5/spirit_boots" },
 		{ "predicate": { "custom_model_data": 1230}, "model": "outsourced:christmas/newyears/set1/boots_icon" },
 		{ "predicate": { "custom_model_data": 1231}, "model": "outsourced:christmas/newyears/set2/lunarset_boots" },
-		
+		{ "predicate": { "custom_model_data": 1232}, "model": "custom/armor/vstux_boots" },
 		{ "predicate": { "custom_model_data": 1233}, "model": "custom/armor/eclichboots" },
 		{ "predicate": { "custom_model_data": 1234}, "model": "custom/armor/ecdruidboots" },
 		{ "predicate": { "custom_model_data": 1235}, "model": "custom/armor/patrick_boots" },
@@ -27,6 +27,14 @@
 		{ "predicate": { "custom_model_data": 1240}, "model": "outsourced:events/easter/set1/boots" },
 		{ "predicate": { "custom_model_data": 1241}, "model": "outsourced:events/easter/set2/boots" },
 		{ "predicate": { "custom_model_data": 1243}, "model": "outsourced:events/easter/set4/boots" },
+
+		{ "predicate": { "custom_model_data": 1300}, "model": "outsourced:ec/greendragon/greendragon_boots" },
+		{ "predicate": { "custom_model_data": 1301}, "model": "outsourced:ec/armors/molten_boots" },
+		{ "predicate": { "custom_model_data": 1302}, "model": "outsourced:ec/armors/basalt_boots" },
+		{ "predicate": { "custom_model_data": 1305}, "model": "fraggle:extra/armor/fc_dwarf_boots_icon" },
+		{ "predicate": { "custom_model_data": 1307}, "model": "outsourced:ec/headless/boots_icon" },
+		{ "predicate": { "custom_model_data": 1308}, "model": "outsourced:ec/ghostly/boots_icon" },
+
 
 		{ "predicate": { "custom_model_data": 1901}, "model": "custom/armor/flamos_boots" },
 		{ "predicate": { "custom_model_data": 1910}, "model": "custom/armor/santa_boots_one" },

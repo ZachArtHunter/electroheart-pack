@@ -64,6 +64,14 @@
 		{ "predicate": { "custom_model_data": 78}, "model": "outsourced:events/easter/set4/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 78}, "model": "outsourced:events/easter/set4/fishing_rod_cast" },
 
+		{ "predicate": { "custom_model_data": 80}, "model": "outsourced:ec/greendragon/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 80}, "model": "outsourced:ec/greendragon/fishing_rod_cast" },
+
+		{ "predicate": { "custom_model_data": 81}, "model": "outsourced:ec/headless/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 81}, "model": "outsourced:ec/headless/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 82}, "model": "outsourced:ec/ghostly/fishing_rod" },
+		{ "predicate": { "cast": 1, "custom_model_data": 82}, "model": "outsourced:ec/ghostly/fishing_rod_cast" },
+
 		{ "predicate": { "custom_model_data": 100}, "model": "minecraft:item/fishing_rod" },
 		{ "predicate": { "cast": 1, "custom_model_data": 100}, "model": "minecraft:item/fishing_rod" }
 	]

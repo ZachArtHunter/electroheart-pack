@@ -1,0 +1,7 @@
+{
+	"parent": "fraggle:food/drinks/hammer_mug2023",
+	"textures": {
+		"liquid_texture": "fraggle:ui/font_button_invisible",
+		"froth_texture": "fraggle:ui/font_button_invisible"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fraggle:extra/dwarf/fc_dwarvennite_scrap"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "fraggle:cards/templates/food_card_base",
+    "textures": {
+        "icon_texture": "minecraft:item/chorus_fruit"
+    }
+}

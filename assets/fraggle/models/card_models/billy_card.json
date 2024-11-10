@@ -1,0 +1,7 @@
+{
+	"parent": "fraggle:card_template/player_card_template",
+	"textures": {
+		"card_texture": "fraggle:cards/hero/billy_card",
+		"skin_texture": "entity/steve"
+	}
+}
